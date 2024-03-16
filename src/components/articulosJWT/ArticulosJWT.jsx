@@ -50,7 +50,7 @@ function ArticulosJWT() {
     </>
   );
 }
-
+ArticulosJWT.NombreComponenteNoOfuscado = "ArticulosJWT";
 
 export { ArticulosJWT };
 

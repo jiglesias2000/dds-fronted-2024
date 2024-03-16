@@ -75,7 +75,7 @@ function Menu() {
               >
                 Informes
               </a>
-              <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
+              <ul className="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdown">
                 <li>
                   <a className="dropdown-item" href="#!">
                     Ventas
